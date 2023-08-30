@@ -21,10 +21,6 @@ For this project, we used the XGBoost algorithm to train the predictive model. X
 # Evaluation
 The model was evaluated using accuracy as the evaluation metric. After training the model on the training data, it achieved an accuracy score of [mention the accuracy score].
 
-# How to Run the Code
-To run this project on your local machine, follow these steps:
-
-Clone this repository to your local machine using git clone. Install the required dependencies mentioned in the "Dependencies" section. Open the Jupyter Notebook (Titanic_Survival_Prediction.ipynb) using Jupyter Notebook or JupyterLab. Run the notebook cell-by-cell to execute the code and reproduce the analysis.
 
 # Results
 The analysis revealed interesting insights into the factors influencing survival on the Titanic. The correlation matrix highlighted the relationships between different features and the target variable.

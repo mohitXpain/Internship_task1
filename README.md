@@ -25,5 +25,5 @@ The model was evaluated using accuracy as the evaluation metric. After training 
 # Results
 The analysis revealed interesting insights into the factors influencing survival on the Titanic. The correlation matrix highlighted the relationships between different features and the target variable.
 
-Contact
+# Contact
 Feel free to contact me if you have any questions or feedback regarding this project. You can reach me at mohitkatare7620@gmail.com
